@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Trattoria</string>
+    <string name="header_text">Zapraszamy</string>
+    <string name="empty_text">&lt;cool text here&gt;</string>
+    <string name="tab_welcome">Witamy</string>
+    <string name="tab_about">O nas</string>
+    <string name="tab_map">Jak dojechać</string>
+    <string name="tab_contact">Kontakt</string>
+    <string name="tab_reservation">Rezerwacja</string>
+    <string name="title_activity_main_fragment">Restauracja Trattoria</string>
+    <string name="hello_world">ELOOOOOOOO!</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="btn_SearchLocation">Szukaj</string>
+
+    <!-- RESERVATION -->
+    <string name="txt_order_details">Szczegóły rezerwacji</string>
+    <string name="txt_whipped_cream">Jakiś tam krem</string>
+    <string name="txt_chocolate">Czekolada</string>
+    <string name="hint_name">Imię oraz nazwisko…</string>
+    <string name="hint_phone_number">Numer kontaktowy…</string>
+    <string name="txt_quantity_guests">Ilość gości</string>
+    <string name="txt_summary">Podsumowanie rezerwacji</string>
+    <string name="btn_Order">Dokonaj rezerwacji</string>
+    <string name="txt_pick_date">Wybierz datę</string>\
+    <string name="txt_picked_date"></string>
+
+    <!-- RESERVATION - Order summary result strings -->
+    <string name="order_summary_name">Name: <xliff:g id="name" example="Mateusz">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">Add Whipped Cream: <xliff:g id="whippedCream" example="No">%s</xliff:g></string>
+    <string name="order_summary_chocolate">Add Chocolate: <xliff:g id="chocolate" example="Yes">%s</xliff:g></string>
+    <string name="order_summary_quantity">Quantity: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="order_summary_total">Total: <xliff:g id="price" example="10">%d</xliff:g> zł</string>
+    <string name="order_summary_thank_you">Thank you for your order!</string>
+
+
+</resources>
